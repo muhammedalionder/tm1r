@@ -1,0 +1,16 @@
+Package: tm1r
+Type: Package
+Title: The Integration Between 'IBM COGNOS TM1' and R
+Version: 1.1.1
+Author: Muhammed Ali Onder
+Maintainer: Muhammed Ali Onder <muhammedalionder@gmail.com>
+Description: Useful functions to connect to 'TM1' <https://www.ibm.com/uk-en/marketplace/planning-and-analytics> instance from R via REST API. With the functions in the package, data can be imported from 'TM1' via mdx view or native view, data can be sent to 'TM1', processes and chores can be executed, and cube and dimension metadata information can be taken. 
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Imports: jsonlite, httr
+Depends: R (>= 3.0.0)
+NeedsCompilation: no
+Packaged: 2018-08-31 12:07:26 UTC; 
+URL: http://github.com/muhammedalionder/tm1r
+BugReports: http://github.com/muhammedalionder/tm1r/issues
