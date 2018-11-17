@@ -6,7 +6,7 @@ tm1r <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.
 Overview
 --------
 
-Useful functions to connect to 'TM1' <https://www.ibm.com/uk-en/marketplace/planning-and-analytics> instance from R via REST API. With the functions in the package, data can be imported from 'TM1' via mdx view or native view, data can be sent to 'TM1', processes and chores can be executed, and cube and dimension metadata information can be taken. 
+Useful functions to connect to 'TM1' <https://www.ibm.com/uk-en/marketplace/planning-and-analytics> instance from R via REST API.  
 
 Installation
 ------------
