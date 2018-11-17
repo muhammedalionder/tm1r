@@ -2,7 +2,7 @@
 tm1r <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" align="right" width="60" height="60" /><img src="https://www.cubus-pm.com/sites/default/files/styles/image/public/images/grafiken/grafik_technologie_ibm_d_694x500px.jpg" align="right" width="70" height="60" />
 ===============================================================================
 
-[![CRAN status](https://www.r-pkg.org/badges/version/broom)](https://cran.r-project.org/package=broom)
+[![CRAN status](https://www.r-pkg.org/badges/version/tm1r)](https://cran.r-project.org/package=tm1r)
 
 Overview
 --------
